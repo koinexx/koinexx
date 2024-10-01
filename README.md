@@ -3,5 +3,6 @@
    <li>c#</li>
    <li>python</li>
    <li>javascript</li> 
-   <li>typescript</li>
+  <li>html</li>
+  <li>css</li>
  </ul> 
